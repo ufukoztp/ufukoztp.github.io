@@ -35688,7 +35688,7 @@ $1(a){this.a.af().$0()
 this.b.fV()},
 $S:6}
 A.AJ.prototype={
-T(a){return new A.r0(B.F2,new A.RU(),"Flutter Demo",A.a9L(null,A.afs(B.X,B.Dd),!0),!1,null)}}
+T(a){return new A.r0(B.F2,new A.RU(),"Charger Route",A.a9L(null,A.afs(B.X,B.Dd),!0),!1,null)}}
 A.RU.prototype={
 $2(a,b){b.toString
 return new A.t8(b,A.a([B.vS,B.vT,B.vU,B.vV],t.tO),null,!1,!1,null)},
